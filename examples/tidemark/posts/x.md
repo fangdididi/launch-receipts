@@ -1,0 +1,1 @@
+I built a small CLI that renames photos to their capture date. It shows a preview table first [R2] and writes an undo file [R4]. Offline, MIT. If your camera breaks it, I want the error text. https://github.com/example/tidemark
